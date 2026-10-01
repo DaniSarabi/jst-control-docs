@@ -161,3 +161,14 @@ Al escribir "versión soportada por el fabricante", algunos renglones actuales d
 3. Confirmar el **orden** de la sección 1, o la alternativa de empezar con 006.
 
 Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos posteriores.
+
+---
+
+## 7. Respuestas recibidas
+
+| # | Respuesta | Efecto |
+|---|---|---|
+| P3 | El dueño del trámite es el **jefe inmediato**. | Se aplica en NO-FIT-003, en el texto para NO-PIT-001 y después en 001. |
+| P6 | El inventario es **AssetTiger**. | Es el registro vivo de los principios 4.2 y 3.3. Falta confirmar qué módulos y campos se usan (ver NO-FIT-003, D6). |
+| 5.3 | Al Gerente tampoco le convence la cláusula de cobro. | Se rediseña en NO-FIT-002. |
+| 3.4 | NO-FME-046 es desconocido para IT. | Se deja de lado. Las excepciones se tramitan con NO-FIT-001 tipo MOD (ver NO-FIT-003). |
