@@ -22,7 +22,7 @@
 ### B. Evaluación y autorización
 
 - IT evalúa qué tipo de equipo se asigna y si se compra o se reasigna uno existente. Para esto se requiere la autorización previa del jefe de departamento o del Gerente de Planta. **[conserva]**
-- Las laptops se asignan a los puestos que por su movilidad lo requieren. Las autorizan el jefe de área **y** el Gerente de Planta. **[conserva]**
+- Las laptops se asignan a los puestos que por su movilidad lo requieren. Las autoriza el **gerente del área**. **[cambia: antes también las autorizaba el Gerente de Planta]**
 - Para evaluar la asignación de una laptop se toman en cuenta estos criterios: **[conserva]**
   - Necesita trabajar desde casa.
   - Viaja frecuentemente a otras plantas.
