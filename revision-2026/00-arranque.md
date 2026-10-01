@@ -187,3 +187,4 @@ Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos p
 | P14, D26 | Los formatos se guardan **siempre** en el expediente del usuario, sin plazo de retención. Cualquier acceso puede ser temporal (Internet ejecutivo, file server, etc.). | Aplicado. Siguen abiertas D27 y D28. |
 | D27, D28 | **El gerente del área solicita y autoriza** en 001, 010 y PIT-001 (sustituye a P3). No se agrega nada sobre compra de equipo. | NO-FIT-001 y NO-FIT-010 cerrados. |
 | 007 | El Gerente decide **saltar NO-FIT-007** en esta vuelta. | Se sigue con 009. Las contradicciones con el 007 quedan anotadas como efectos colaterales. |
+| D29 | LightCast: proyección a las pantallas interactivas. | NO-FIT-009 cerrado. Sigue NO-FIT-006. |
