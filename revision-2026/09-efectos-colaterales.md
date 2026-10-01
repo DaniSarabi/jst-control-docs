@@ -38,8 +38,8 @@ Además de incorporar la sección 5.5 completa (`01b-texto-para-NO-PIT-001.md`):
 | 9 | 5.3 Controles lógicos, baja | Agregar los **plazos de aviso de RH**: 1 día hábil antes en salida ordenada, antes de la notificación en despido, y el primer día en suspensión. | 005 |
 | 10 | 5.4 | Corregir la dependencia circular. Para crear accesos se necesita el **NO-FIT-001**; para entregar equipo, el **NO-FIT-003** firmado; al entregar, se firma el **NO-FIT-002**. | Arranque 4.3 |
 | 11 | 6 Documentación | Actualizar los nombres de 001, 002, 003, 005, 006 y 009. Agregar **NO-FIT-010 Solicitud de Cambio de Accesos**. | Todos |
-| 12 | 5.1 | Cita **NO-FME-046 Formato de desviación**, que IT no conoce. Que Calidad confirme si existe. Si no existe, quitar la cita. Las excepciones de IT ya no lo usan (van por NO-FIT-010). | Arranque 3.4 |
-| 13 | Varias | "Administrador de IT" y "Administrador correspondiente" se cambian por el **puesto oficial** (pendiente P13). | Principio 4.3 |
+| 12 | 5.1 | Cita **NO-FME-046**, que es el formato de desviación **de manufactura**. Puede quedarse para desviaciones al procedimiento como tal. Las excepciones individuales (USB, accesos temporales) **no** lo usan: van por NO-FIT-010. Conviene que 5.1 lo diga, para que nadie llene un formato de manufactura por una USB. | Arranque 3.4 |
+| 13 | Varias | "Administrador de IT", "Administrador correspondiente" y "Gerente de IT" (cuando ejecuta o autoriza) se cambian por **IT Administration**. | P13 |
 
 ---
 
@@ -86,10 +86,10 @@ Sin nombrar la herramienta, el inventario tiene que guardar por cada equipo:
 
 ---
 
-## 7. Preguntas del arranque que nunca se contestaron
+## 7. Preguntas del arranque
 
-| # | Pregunta | Efecto si no se contesta |
+| # | Pregunta | Resolución |
 |---|---|---|
-| P1 | Revisión vigente de la plantilla NO-FQA-002 (Rev A o Rev B). | Lo resuelves al pasar los documentos a la plantilla. |
-| P12 | Idioma. | Todo el paquete quedó en español. Como no hubo objeción, lo doy por aceptado. |
-| P13 | Puestos oficiales de las dos personas de IT. | Los documentos dicen "Gerente de IT" y "personal de IT". Si el puesto oficial es otro, hay que ajustarlo. |
+| P1 | Revisión vigente de NO-FQA-002. | La resuelve el Gerente de IT al pasar los documentos a la plantilla. |
+| P12 | Idioma. | Todo el paquete en español. |
+| P13 | Puestos de IT. | En los documentos el rol es **IT Administration**, igual que "SAP Administration". |

@@ -44,7 +44,7 @@
 - El usuario es responsable del equipo que recibe por NO-FIT-002. **[conserva]**
 - El usuario guarda la información de trabajo en las carpetas de red asignadas (su unidad personal o la de su área), no solo en el disco local del equipo. **[cambia: antes decía "será responsable de manejar su información"]**
 - Si el equipo falla, el usuario lo reporta a IT. **[conserva]**
-- En caso de extravío o robo, el usuario avisa **de inmediato** al Gerente de IT y a su jefe inmediato. **[conserva; "Administrador de IT" se cambia por el puesto vigente]**
+- En caso de extravío o robo, el usuario avisa **de inmediato** a **IT Administration** y a su jefe inmediato. **[conserva; "Administrador de IT" se cambia por IT Administration]**
 - Cada usuario recibe una cuenta de correo electrónico en el dominio de la Compañía. Toda comunicación electrónica que envíe o reciba debe estar relacionada con asuntos laborales. **[conserva]**
 
 ### E. Software
@@ -64,14 +64,14 @@
 | Pregunta | Regla |
 |---|---|
 | ¿Quién la solicita? | El gerente del área, con **NO-FIT-010 Solicitud de cambio de accesos**. Indica la justificación y el periodo requerido. |
-| ¿Quién la autoriza? | El **Gerente de IT**. |
+| ¿Quién la autoriza? | **IT Administration**. |
 | ¿Qué se autoriza? | El uso de un **dispositivo de la Compañía**, entregado por IT con NO-FIT-002 y etiquetado según "Medios de almacenamiento" de esta sección 5.3. **Nunca se autoriza un dispositivo personal.** |
 | ¿Es por usuario o por equipo? | Por **usuario y equipo**: un usuario, en el equipo o equipos indicados, con el dispositivo indicado. |
 | ¿Por cuánto tiempo? | Máximo **6 meses**. Se renueva con otro NO-FIT-010. Si no se renueva, IT recoge el dispositivo y retira el permiso. |
 | ¿Qué registro queda? | La solicitud autorizada, en el expediente de IT del usuario, y el dispositivo dado de alta en el inventario como asignado al usuario. |
 | ¿Cómo se revisa? | En el mantenimiento preventivo semestral (NO-FIT-006), el técnico revisa las excepciones vigentes del usuario o usuarios del equipo, según su expediente. Si una venció, la retira. |
 
-- *Dependencia:* el bloqueo técnico de USB en los equipos está fuera del alcance de esta revisión. Hasta que exista, esta regla se cumple solo por disciplina. **[nota para el Gerente de IT; no va en el procedimiento]**
+- *Dependencia:* el bloqueo técnico de USB en los equipos está fuera del alcance de esta revisión. Hasta que exista, esta regla se cumple solo por disciplina. **[nota para revisión; no va en el procedimiento]**
 
 ### G. Revisión periódica
 
@@ -80,7 +80,7 @@
 | | |
 |---|---|
 | **Frecuencia** | **Semestral**, en el mantenimiento preventivo de cada equipo. |
-| **Quién** | El técnico de IT que realiza el mantenimiento. |
+| **Quién** | IT Administration, al realizar el mantenimiento. |
 | **Qué se revisa** | 1) Asset ID, persona o área asignada y ubicación coinciden con el inventario. 2) El software instalado coincide con NO-FIT-007. 3) Las excepciones registradas siguen vigentes. 4) El estado físico, comparado contra el acta NO-FIT-002. |
 | **Registro** | NO-FIT-006 firmado por el técnico, y el inventario actualizado si hubo diferencias. |
 | **Si hay diferencias** | Se corrigen en el momento o se anotan en NO-FIT-006 como pendiente, con responsable. |
@@ -91,7 +91,7 @@
 
 - El equipo que usan varias personas o varios turnos (estaciones de piso, equipo de área) se usa con la cuenta genérica de piso descrita en "Controles lógicos" de esta sección 5.3.
 - **Regla general:** el acta NO-FIT-002 del equipo compartido la firman **todos los usuarios que lo comparten**. El equipo queda registrado en el inventario asignado al área, con su ubicación física.
-- **Excepción:** el equipo compartido se puede asignar al **gerente del área**, quien firma el acta como único responsable. La excepción la acuerdan el gerente del área y el Gerente de IT, y queda marcada en el acta.
+- **Excepción:** el equipo compartido se puede asignar al **gerente del área**, quien firma el acta como único responsable. La excepción la acuerdan el gerente del área e IT Administration, y queda marcada en el acta.
 - **Usuario nuevo en un equipo compartido:** firma el acta del equipo antes de usarlo. El supervisor del área recaba la firma y entrega el acta a IT.
 - **Usuario que deja de usar el equipo** (baja o cambio de área): se anota en el acta del equipo. En una baja, NO-FIT-005 lo indica.
 - **Cambios de turno:** no se firma nada en cada turno. Si un supervisor de turno encuentra daño o faltante, lo reporta a IT y al responsable del área en el mismo turno.
@@ -113,4 +113,4 @@
 | 5.3 "Medios de almacenamiento" | Etiquetado de medios portátiles, sin decir quién los puede tener | Agregar: "Solo se usan medios de la Compañía entregados por IT conforme a 5.5 F." |
 | 5.4 | Verificar 001, 002 y 003 **antes de establecer el acceso** | Para crear accesos: NO-FIT-001 autorizado. Para entregar equipo: NO-FIT-003 firmado. Al entregar: se firma NO-FIT-002. *(Así se elimina la dependencia circular.)* |
 | 6 Documentación | "NO-FIT-003 Equipment Assignment" | "NO-FIT-003 Acuse de la Política de Uso de Equipo y Recursos de IT". Agregar "**NO-FIT-010 Solicitud de cambio de accesos**". |
-| Varios | "Administrador de IT", "Administrador correspondiente" | El puesto oficial, pendiente de P13. |
+| Varios | "Administrador de IT", "Administrador correspondiente", "Gerente de IT" (cuando ejecuta o autoriza) | **IT Administration** (P13). |
