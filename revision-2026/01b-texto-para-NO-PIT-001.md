@@ -8,7 +8,7 @@
 
 ## 5.5 ASIGNACIÓN Y USO DE EQUIPO DE CÓMPUTO
 
-**Alcance:** aplica a todo equipo de cómputo y de comunicación que la Compañía entrega: desktop, laptop, tablet, celular, monitores, periféricos y equipo de piso. También aplica a las cuentas y al correo electrónico de la Compañía. **[cambia: antes decía solo "Laptop"]**
+**Alcance:** aplica a todo equipo de cómputo que la Compañía entrega (desktop, laptop, tablet, monitor, docking station y otros). También aplica a las cuentas y al correo electrónico de la Compañía. **[cambia: antes decía solo "Laptop"]**
 
 **Inventario de activos de IT:** IT da de alta en el inventario de activos cada equipo que la Compañía entrega y lo registra como asignado (*check-out*) a la persona o al área responsable. El inventario es un registro vivo, no un documento controlado: se actualiza cada vez que un equipo se entrega, se cambia o se devuelve. **[nuevo]**
 

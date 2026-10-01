@@ -179,3 +179,4 @@ Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos p
 | D2–D4, D8 (003) | Lleva resumen. Revisión semestral. No hay políticas corporativas. El equipo compartido se asigna al gerente por acuerdo con el Gerente de IT. | Aplicado. NO-FIT-003 queda cerrado, salvo D7. |
 | D7 | El Gerente quiere ver alternativas; se inclina por un formato aparte. | `02-D7-alternativas-cambio-accesos.md` |
 | D7 | **Alternativa B: NO-FIT-010 Solicitud de cambio de accesos.** 001 solo altas. 005 solo bajas (salida, despido, incapacidad, suspensión). Cambios de rol por 010. | Aplicado en 003 y PIT-001. Afecta F5-03 (el cambio de puesto sale del 005). |
+| D9–D12, P4 (002) | Sin cobro. Sin denuncia. Sin celulares. Firma en papel. Equipo: tablet, laptop, desktop, docking y monitor. Sin rutas en los documentos. | Aplicado. NO-FIT-002 queda cerrado. Choca con F1-04 (catálogo del 001). |
