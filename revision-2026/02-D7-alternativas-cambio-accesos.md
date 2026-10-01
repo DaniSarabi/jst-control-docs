@@ -1,5 +1,7 @@
 # D7 · ¿Cómo se piden los cambios de accesos?
 
+> **RESUELTO:** se elige la alternativa B, **NO-FIT-010 Solicitud de cambio de accesos**. NO-FIT-001 queda solo para altas. NO-FIT-005 queda solo para bajas: salida, despido, incapacidad prolongada y suspensión; el cambio de puesto va por NO-FIT-010. Los cambios de roles se documentan con NO-FIT-010. El formato completo se entrega junto con NO-FIT-001.
+
 **Para:** Gerente de IT
 **Tema:** 6.2 del brief, "todo cambio de accesos pasa por un documento". Aquí también entra la excepción de USB.
 

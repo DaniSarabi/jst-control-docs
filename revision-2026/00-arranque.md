@@ -178,3 +178,4 @@ Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos p
 | MOD | Al Gerente no le convence usar el 001 completo para un cambio. | Se plantea en 003 como D7. Se diseña en 001. |
 | D2–D4, D8 (003) | Lleva resumen. Revisión semestral. No hay políticas corporativas. El equipo compartido se asigna al gerente por acuerdo con el Gerente de IT. | Aplicado. NO-FIT-003 queda cerrado, salvo D7. |
 | D7 | El Gerente quiere ver alternativas; se inclina por un formato aparte. | `02-D7-alternativas-cambio-accesos.md` |
+| D7 | **Alternativa B: NO-FIT-010 Solicitud de cambio de accesos.** 001 solo altas. 005 solo bajas (salida, despido, incapacidad, suspensión). Cambios de rol por 010. | Aplicado en 003 y PIT-001. Afecta F5-03 (el cambio de puesto sale del 005). |
