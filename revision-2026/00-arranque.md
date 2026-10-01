@@ -172,3 +172,7 @@ Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos p
 | P6 | El inventario es **AssetTiger**. | Es el registro vivo de los principios 4.2 y 3.3. Falta confirmar qué módulos y campos se usan (ver NO-FIT-003, D6). |
 | 5.3 | Al Gerente tampoco le convence la cláusula de cobro. | Se rediseña en NO-FIT-002. |
 | 3.4 | NO-FME-046 es desconocido para IT. | Se deja de lado. Las excepciones se tramitan con NO-FIT-001 tipo MOD (ver NO-FIT-003). |
+| D1 (003) | El acuse lo firman **todos**, incluidos los operadores de piso. | Aplicado en 003 y PIT-001. |
+| D5 (003) | No se prohíbe conectar el celular a la PC. **Se prohíbe conectarlo a la red** sin autorización. | Aplicado. |
+| 6.1 | En las estaciones compartidas firman **todos los que las comparten**. Por excepción se pueden asignar al gerente del área. | Aplicado en PIT-001 (sección H). El formato se resuelve en 002. |
+| MOD | Al Gerente no le convence usar el 001 completo para un cambio. | Se plantea en 003 como D7. Se diseña en 001. |

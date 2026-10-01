@@ -10,7 +10,9 @@
 
 **Alcance:** aplica a todo equipo de cómputo y de comunicación que la Compañía entrega: desktop, laptop, tablet, celular, monitores, periféricos y equipo de piso. También aplica a las cuentas y al correo electrónico de la Compañía. **[cambia: antes decía solo "Laptop"]**
 
-**Registro de inventario:** IT lleva el inventario de equipo en un registro vivo (hoy **AssetTiger**). Por cada activo se registra a quién o a qué área está asignado, su ubicación y las excepciones vigentes. El inventario no es un documento controlado: se actualiza cada vez que hay un cambio. **[nuevo]**
+**Inventario de activos de IT:** IT da de alta en el inventario de activos cada equipo que la Compañía entrega y lo registra como asignado (*check-out*) a la persona o al área responsable. El inventario es un registro vivo, no un documento controlado: se actualiza cada vez que un equipo se entrega, se cambia o se devuelve. **[nuevo]**
+
+**Expediente de IT por usuario:** IT guarda en una carpeta por usuario todos sus formatos de IT: NO-FIT-001 (altas, cambios y bajas), NO-FIT-002, NO-FIT-003 y NO-FIT-005. Este expediente es el historial de qué se le ha otorgado o retirado a cada usuario, cuándo y quién lo autorizó. **[nuevo]**
 
 ### A. Solicitud
 
@@ -34,7 +36,7 @@
 - Todo equipo se entrega con el acta de entrega y recepción **NO-FIT-002**. El acta detalla el equipo, sus accesorios y su estado. La firman el usuario (o el responsable del área, si es equipo compartido) y la persona de IT que entrega. **[cambia: antes decía "un acta" sin identificarla]**
 - Antes de entregar el equipo, IT verifica que exista lo siguiente: **[nuevo; ver efecto colateral sobre 5.4]**
   1. El NO-FIT-001 autorizado por el jefe inmediato.
-  2. El acuse **NO-FIT-003** firmado por el usuario (solo usuarios con cuenta nominal).
+  2. El acuse **NO-FIT-003** firmado por el usuario. **Lo firman todos los usuarios de recursos de IT**, incluidos los operadores que solo usan estaciones compartidas.
 
 ### D. Responsabilidades del usuario
 
@@ -55,18 +57,19 @@
 
 ### F. Dispositivos de almacenamiento externo (USB y similares)
 
-- **Queda prohibido conectar al equipo de la Compañía memorias USB, discos duros externos, CD/DVD o teléfonos celulares de uso personal, por cualquier motivo.** **[conserva; "por cualquier motivo" queda pendiente de la decisión D5]**
+- **Queda prohibido conectar al equipo de la Compañía memorias USB, discos duros externos o CD/DVD de uso personal.** **[conserva]**
+- **Queda prohibido conectar el teléfono celular personal a la red de la Compañía (Wi-Fi o cable) sin autorización de IT.** **[cambia: antes prohibía conectarlo al equipo]**
 - **Excepción:** si un puesto necesita usar un dispositivo de almacenamiento externo, se sigue esta ruta: **[nuevo]**
 
 | Pregunta | Regla |
 |---|---|
-| ¿Quién la solicita? | El jefe inmediato, con **NO-FIT-001 tipo MOD**. Indica la justificación y el periodo requerido. |
+| ¿Quién la solicita? | El jefe inmediato, con la **solicitud de cambio de accesos** *(el formato depende de la decisión D7)*. Indica la justificación y el periodo requerido. |
 | ¿Quién la autoriza? | El **Gerente de IT**. |
 | ¿Qué se autoriza? | El uso de un **dispositivo de la Compañía**, entregado por IT con NO-FIT-002 y etiquetado según "Medios de almacenamiento" de esta sección 5.3. **Nunca se autoriza un dispositivo personal.** |
 | ¿Es por usuario o por equipo? | Por **usuario y equipo**: un usuario, en el equipo o equipos indicados, con el dispositivo indicado. |
-| ¿Por cuánto tiempo? | Máximo **6 meses**. Se renueva con otro NO-FIT-001 MOD. Si no se renueva, IT recoge el dispositivo y retira el permiso. |
-| ¿Qué registro queda? | El NO-FIT-001 MOD archivado, una nota en **AssetTiger** sobre el equipo con la vigencia, y el dispositivo dado de alta como activo asignado. |
-| ¿Cómo se revisa? | En el mantenimiento preventivo semestral (NO-FIT-006), el técnico verifica que cada excepción del equipo esté vigente. Si venció, la retira. |
+| ¿Por cuánto tiempo? | Máximo **6 meses**. Se renueva con otra solicitud de cambio. Si no se renueva, IT recoge el dispositivo y retira el permiso. |
+| ¿Qué registro queda? | La solicitud autorizada, en el expediente de IT del usuario, y el dispositivo dado de alta en el inventario como asignado al usuario. |
+| ¿Cómo se revisa? | En el mantenimiento preventivo semestral (NO-FIT-006), el técnico revisa las excepciones vigentes del usuario o usuarios del equipo, según su expediente. Si una venció, la retira. |
 
 - *Dependencia:* el bloqueo técnico de USB en los equipos está fuera del alcance de esta revisión. Hasta que exista, esta regla se cumple solo por disciplina. **[nota para el Gerente de IT; no va en el procedimiento]**
 
@@ -78,19 +81,20 @@
 |---|---|
 | **Frecuencia** | **Semestral**, en el mantenimiento preventivo de cada equipo. |
 | **Quién** | El técnico de IT que realiza el mantenimiento. |
-| **Qué se revisa** | 1) Asignado a, ubicación y Asset ID coinciden con AssetTiger. 2) El software instalado coincide con NO-FIT-007. 3) Las excepciones registradas siguen vigentes. 4) El estado físico, comparado contra el acta NO-FIT-002. |
-| **Registro** | NO-FIT-006 firmado por el técnico, y AssetTiger actualizado si hubo diferencias. |
+| **Qué se revisa** | 1) Asset ID, persona o área asignada y ubicación coinciden con el inventario. 2) El software instalado coincide con NO-FIT-007. 3) Las excepciones registradas siguen vigentes. 4) El estado físico, comparado contra el acta NO-FIT-002. |
+| **Registro** | NO-FIT-006 firmado por el técnico, y el inventario actualizado si hubo diferencias. |
 | **Si hay diferencias** | Se corrigen en el momento o se anotan en NO-FIT-006 como pendiente, con responsable. |
 
 ### H. Equipo compartido (equipo de área o de piso)
 
 **[nuevo — tema 6.1; el detalle del formato se resuelve en NO-FIT-002]**
 
-- El equipo que usan varias personas o varios turnos (estaciones de piso, equipo de área) se asigna **al área**, no a una persona.
-- **Responsable:** el jefe o supervisor del área. Firma el acta NO-FIT-002 por el área.
-- Se usa con la cuenta genérica de piso descrita en "Controles lógicos" de esta sección 5.3.
+- El equipo que usan varias personas o varios turnos (estaciones de piso, equipo de área) se usa con la cuenta genérica de piso descrita en "Controles lógicos" de esta sección 5.3.
+- **Regla general:** el acta NO-FIT-002 del equipo compartido la firman **todos los usuarios que lo comparten**. El equipo queda registrado en el inventario asignado al área, con su ubicación física.
+- **Excepción:** el equipo compartido se puede asignar al **gerente del área**, quien firma el acta como único responsable. *[Pendiente: quién decide cuándo aplica la excepción; ver D8]*
+- **Usuario nuevo en un equipo compartido:** firma el acta del equipo antes de usarlo. El supervisor del área recaba la firma y entrega el acta a IT.
+- **Usuario que deja de usar el equipo** (baja o cambio de área): se anota en el acta del equipo. En una baja, NO-FIT-005 lo indica.
 - **Cambios de turno:** no se firma nada en cada turno. Si un supervisor de turno encuentra daño o faltante, lo reporta a IT y al responsable del área en el mismo turno.
-- **Inventario:** en AssetTiger el equipo se registra asignado al área y a una ubicación física. Si cambia el responsable del área, se firma un nuevo NO-FIT-002.
 - **Revisión:** la misma de la sección G.
 
 ### I. Incumplimiento
