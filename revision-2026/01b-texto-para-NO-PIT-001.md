@@ -91,7 +91,7 @@
 
 - El equipo que usan varias personas o varios turnos (estaciones de piso, equipo de área) se usa con la cuenta genérica de piso descrita en "Controles lógicos" de esta sección 5.3.
 - **Regla general:** el acta NO-FIT-002 del equipo compartido la firman **todos los usuarios que lo comparten**. El equipo queda registrado en el inventario asignado al área, con su ubicación física.
-- **Excepción:** el equipo compartido se puede asignar al **gerente del área**, quien firma el acta como único responsable. *[Pendiente: quién decide cuándo aplica la excepción; ver D8]*
+- **Excepción:** el equipo compartido se puede asignar al **gerente del área**, quien firma el acta como único responsable. La excepción la acuerdan el gerente del área y el Gerente de IT, y queda marcada en el acta.
 - **Usuario nuevo en un equipo compartido:** firma el acta del equipo antes de usarlo. El supervisor del área recaba la firma y entrega el acta a IT.
 - **Usuario que deja de usar el equipo** (baja o cambio de área): se anota en el acta del equipo. En una baja, NO-FIT-005 lo indica.
 - **Cambios de turno:** no se firma nada en cada turno. Si un supervisor de turno encuentra daño o faltante, lo reporta a IT y al responsable del área en el mismo turno.

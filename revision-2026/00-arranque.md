@@ -176,3 +176,5 @@ Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos p
 | D5 (003) | No se prohíbe conectar el celular a la PC. **Se prohíbe conectarlo a la red** sin autorización. | Aplicado. |
 | 6.1 | En las estaciones compartidas firman **todos los que las comparten**. Por excepción se pueden asignar al gerente del área. | Aplicado en PIT-001 (sección H). El formato se resuelve en 002. |
 | MOD | Al Gerente no le convence usar el 001 completo para un cambio. | Se plantea en 003 como D7. Se diseña en 001. |
+| D2–D4, D8 (003) | Lleva resumen. Revisión semestral. No hay políticas corporativas. El equipo compartido se asigna al gerente por acuerdo con el Gerente de IT. | Aplicado. NO-FIT-003 queda cerrado, salvo D7. |
+| D7 | El Gerente quiere ver alternativas; se inclina por un formato aparte. | `02-D7-alternativas-cambio-accesos.md` |
