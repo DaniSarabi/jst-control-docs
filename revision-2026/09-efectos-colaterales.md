@@ -15,7 +15,7 @@
 | NO-FIT-005 · Baja de Usuario | `04-NO-FIT-005.md` | Cerrado |
 | NO-FIT-001 · Solicitud de Alta de Usuario (con Anexo SAP) | `05-NO-FIT-001.md` | Cerrado |
 | NO-FIT-010 · Solicitud de Cambio de Accesos (**nuevo**) | `06-NO-FIT-010.md` | Cerrado |
-| NO-FIT-011 · Solicitud de Equipo de Cómputo (**nuevo**) | `10-NO-FIT-011.md` | Propuesto (D34–D37 abiertas) |
+| NO-FIT-011 · Solicitud de Equipo de Cómputo (**nuevo**) | `10-NO-FIT-011.md` | Cerrado |
 | NO-FIT-009 · Configuración Inicial de Equipo | `07-NO-FIT-009.md` | Cerrado |
 | NO-FIT-006 · Lista de Verificación de Mantenimiento Preventivo | `08-NO-FIT-006.md` | Cerrado |
 | NO-FIT-007 · Lista de Software Aprobado | — | **Fuera de esta vuelta** (decisión del Gerente de IT) |

@@ -18,7 +18,7 @@
 
 - La Compañía asigna equipo de cómputo a los puestos que por la naturaleza de su trabajo lo requieren. **[conserva]**
 - Cuando ingresa un empleado o se crea un puesto, el **gerente del área** solicita a IT el equipo y los accesos con el formato **NO-FIT-001**. Los cambios posteriores (agregar o quitar accesos, cambio de puesto, excepciones temporales) se solicitan con **NO-FIT-010**. Las bajas se tramitan con **NO-FIT-005**. La solicitud incluye un resumen de las actividades del puesto. **[cambia: antes decía Recursos Humanos; decisiones P3 y D27]**
-- El equipo que no corresponde a un alta (equipo de área, estación compartida nueva o equipo adicional para un usuario) lo solicita el **gerente del área** con **NO-FIT-011 Solicitud de equipo de cómputo**. **[nuevo]**
+- El equipo que no corresponde a un alta (equipo de área, estación compartida nueva, equipo adicional para un usuario o reemplazo) se solicita con **NO-FIT-011 Solicitud de equipo de cómputo**. Lo puede pedir cualquier persona del área, con la aprobación del **gerente del área** si no fue él quien lo pidió. **IT Administration** lo aprueba o lo niega. **[nuevo]**
 
 ### B. Evaluación y autorización
 
