@@ -18,6 +18,7 @@
 
 - La Compañía asigna equipo de cómputo a los puestos que por la naturaleza de su trabajo lo requieren. **[conserva]**
 - Cuando ingresa un empleado o se crea un puesto, el **gerente del área** solicita a IT el equipo y los accesos con el formato **NO-FIT-001**. Los cambios posteriores (agregar o quitar accesos, cambio de puesto, excepciones temporales) se solicitan con **NO-FIT-010**. Las bajas se tramitan con **NO-FIT-005**. La solicitud incluye un resumen de las actividades del puesto. **[cambia: antes decía Recursos Humanos; decisiones P3 y D27]**
+- El equipo que no corresponde a un alta (equipo de área, estación compartida nueva o equipo adicional para un usuario) lo solicita el **gerente del área** con **NO-FIT-011 Solicitud de equipo de cómputo**. **[nuevo]**
 
 ### B. Evaluación y autorización
 
@@ -89,6 +90,7 @@
 
 **[nuevo — tema 6.1; el detalle del formato se resuelve en NO-FIT-002]**
 
+- Una estación compartida nueva o equipo para un área se solicita con **NO-FIT-011**.
 - El equipo que usan varias personas o varios turnos (estaciones de piso, equipo de área) se usa con la cuenta genérica de piso descrita en "Controles lógicos" de esta sección 5.3.
 - **Regla general:** el acta NO-FIT-002 del equipo compartido la firman **todos los usuarios que lo comparten**. El equipo queda registrado en el inventario asignado al área, con su ubicación física.
 - **Excepción:** el equipo compartido se puede asignar al **gerente del área**, quien firma el acta como único responsable. La excepción la acuerdan el gerente del área e IT Administration, y queda marcada en el acta.
@@ -112,5 +114,5 @@
 | 5.3 Controles lógicos, permisos basados en roles | "Los cambios en los roles deben documentarse en el formulario UAR... NO-FIT-001" | "Los cambios en los roles se documentan con **NO-FIT-010 Solicitud de cambio de accesos**". |
 | 5.3 "Medios de almacenamiento" | Etiquetado de medios portátiles, sin decir quién los puede tener | Agregar: "Solo se usan medios de la Compañía entregados por IT conforme a 5.5 F." |
 | 5.4 | Verificar 001, 002 y 003 **antes de establecer el acceso** | Para crear accesos: NO-FIT-001 autorizado. Para entregar equipo: NO-FIT-003 firmado. Al entregar: se firma NO-FIT-002. *(Así se elimina la dependencia circular.)* |
-| 6 Documentación | "NO-FIT-003 Equipment Assignment" | "NO-FIT-003 Acuse de la Política de Uso de Equipo y Recursos de IT". Agregar "**NO-FIT-010 Solicitud de cambio de accesos**". |
+| 6 Documentación | "NO-FIT-003 Equipment Assignment" | "NO-FIT-003 Acuse de la Política de Uso de Equipo y Recursos de IT". Agregar "**NO-FIT-010 Solicitud de cambio de accesos**" y "**NO-FIT-011 Solicitud de equipo de cómputo**". |
 | Varios | "Administrador de IT", "Administrador correspondiente", "Gerente de IT" (cuando ejecuta o autoriza) | **IT Administration** (P13). |

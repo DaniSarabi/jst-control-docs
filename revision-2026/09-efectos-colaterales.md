@@ -15,6 +15,7 @@
 | NO-FIT-005 · Baja de Usuario | `04-NO-FIT-005.md` | Cerrado |
 | NO-FIT-001 · Solicitud de Alta de Usuario (con Anexo SAP) | `05-NO-FIT-001.md` | Cerrado |
 | NO-FIT-010 · Solicitud de Cambio de Accesos (**nuevo**) | `06-NO-FIT-010.md` | Cerrado |
+| NO-FIT-011 · Solicitud de Equipo de Cómputo (**nuevo**) | `10-NO-FIT-011.md` | Propuesto (D34–D37 abiertas) |
 | NO-FIT-009 · Configuración Inicial de Equipo | `07-NO-FIT-009.md` | Cerrado |
 | NO-FIT-006 · Lista de Verificación de Mantenimiento Preventivo | `08-NO-FIT-006.md` | Cerrado |
 | NO-FIT-007 · Lista de Software Aprobado | — | **Fuera de esta vuelta** (decisión del Gerente de IT) |
@@ -37,7 +38,7 @@ Además de incorporar la sección 5.5 completa (`01b-texto-para-NO-PIT-001.md`):
 | 8 | 5.3 Controles lógicos, datos del usuario dado de baja | El responsable de los datos es el **jefe inmediato** durante **90 días** (unidad H:). El buzón pasa a buzón compartido con acceso para quien indique el jefe, durante **30 días**. | 005 |
 | 9 | 5.3 Controles lógicos, baja | Agregar los **plazos de aviso de RH**: 1 día hábil antes en salida ordenada, antes de la notificación en despido, y el primer día en suspensión. | 005 |
 | 10 | 5.4 | Corregir la dependencia circular. Para crear accesos se necesita el **NO-FIT-001**; para entregar equipo, el **NO-FIT-003** firmado; al entregar, se firma el **NO-FIT-002**. | Arranque 4.3 |
-| 11 | 6 Documentación | Actualizar los nombres de 001, 002, 003, 005, 006 y 009. Agregar **NO-FIT-010 Solicitud de Cambio de Accesos**. | Todos |
+| 11 | 6 Documentación | Actualizar los nombres de 001, 002, 003, 005, 006 y 009. Agregar **NO-FIT-010 Solicitud de Cambio de Accesos** y **NO-FIT-011 Solicitud de Equipo de Cómputo**. | Todos |
 | 12 | 5.1 | Cita **NO-FME-046**, que es el formato de desviación **de manufactura**. Puede quedarse para desviaciones al procedimiento como tal. Las excepciones individuales (USB, accesos temporales) **no** lo usan: van por NO-FIT-010. Conviene que 5.1 lo diga, para que nadie llene un formato de manufactura por una USB. | Arranque 3.4 |
 | 13 | Varias | "Administrador de IT", "Administrador correspondiente" y "Gerente de IT" (cuando ejecuta o autoriza) se cambian por **IT Administration**. | P13 |
 

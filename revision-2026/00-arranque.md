@@ -190,3 +190,4 @@ Las demás preguntas pueden llegar mientras avanzo, porque bloquean documentos p
 | D29 | LightCast: proyección a las pantallas interactivas. | NO-FIT-009 cerrado. Sigue NO-FIT-006. |
 | D31–D33 (006) | Entran el contraste de software (cuando se actualice el 007) y el bloque de garantía y reemplazo. Salen los renglones quitados. Firman técnico y usuario. | NO-FIT-006 cerrado. Efectos colaterales consolidados en `09-efectos-colaterales.md`. |
 | P1, P13, NO-FME-046 | P1 la ve el Gerente. El rol de IT en los documentos es **IT Administration**. NO-FME-046 es el formato de desviación de manufactura; se conserva en 5.1 solo para desviaciones al procedimiento. | Aplicado en todos los documentos. **Paquete cerrado**, salvo NO-FIT-007. |
+| Nuevo | El Gerente pide un formato para solicitar equipo de área o estaciones de trabajo, sin alta de usuario. | `10-NO-FIT-011.md` propuesto (D34–D37). |
